@@ -124,3 +124,22 @@
   border: 2px solid #ffc107;
   cursor: pointer;
 }
+
+.seccion-nosotros{
+  padding: 60px 20px;
+  
+}
+.division-general-titulo h2{
+  /*quiero mover el h2 arriba y que los 2 abajo*/
+  text-align: center;
+
+}
+
+.division-general-nosotros{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 20px;
+}
